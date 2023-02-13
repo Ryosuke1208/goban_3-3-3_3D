@@ -145,7 +145,7 @@
     <ClCompile Include="createWaiting1.cpp" />
     <ClCompile Include="createWaiting2.cpp" />
     <ClCompile Include="fill.cpp" />
-    <ClCompile Include="Winmain.cpp" />
+    <ClCompile Include="WinMain.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
